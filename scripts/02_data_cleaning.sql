@@ -3,6 +3,7 @@ Description: Handling missing values, trimming strings, and
              correcting temporal inconsistencies.
 */
 
+CREATE OR REPLACE TABLE `axiomatic-set-467921-a9.Cyclistic_Bikes.Trip_Data_cleaned` AS
 SELECT
     ride_id,
     rideable_type,
