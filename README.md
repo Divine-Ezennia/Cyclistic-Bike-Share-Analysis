@@ -57,13 +57,13 @@ To accommodate different review styles, this repository is organized into specia
 
 | For Hiring Managers & Stakeholders | For Technical Reviewers & Data Engineers |
 | :--- | :--- |
-| 📄 **[Executive Summary (PDF)](./reports/Cyclistic_Bike_Share_Analysis_Nov2024_May2025.pdf)**<br>Strategic findings with code hidden for clarity. | 💻 **[Technical Analysis (Full Code Visible)](./reports/Cyclistic_Bike_Share_Technical_Analysis_Nov2024_May2025.pdf)**📓 **[Live Analysis Notebook (Google Colab)](https://colab.research.google.com/drive/1zmmIZ4bSUanZvVA0g99coWQIpb5Svir1?usp=sharing)**<br>Interact with the live Python environment and raw code. |
+| 📄 **[Executive Summary (PDF)](./reports/Cyclistic_Bike_Share_Analysis_Nov2024_May2025.pdf)**<br>Strategic findings with code hidden for clarity. | 💻 Technical Summary (PDF)](./reports/Cyclistic_Bike_Share_Technical_Analysis_Nov2024_May2025.pdf) 📓 **[Live Analysis Notebook (Google Colab)](https://colab.research.google.com/drive/1zmmIZ4bSUanZvVA0g99coWQIpb5Svir1?usp=sharing)**<br>Interact with the live Python environment and raw code. |
 | 📊 **[Interactive Tableau Dashboard](YOUR_TABLEAU_LINK_HERE)**<br>Full visual exploration of ride patterns. | 🛠️ **[SQL Pipeline (Modular Scripts)](./scripts/)**<br>Clean, documented ETL scripts (Merge → Clean → Enrich → Analyze). |
 | 🖼️ **[Key Insight Gallery](./visualizations/)**<br>Direct access to the most impactful charts. | 📘 **[Data Dictionary & Schema](./data/)**<br>Documentation of source metadata and variables. |
 
 ### 📈 Quick Insight: The Spring Surge
 One of the most significant findings of this analysis was the "Spring Surge" among casual riders starting in March.
 
-![Start Spring Surge Chart](./visualizations/01a_start_seasonal_trend.png)
-![End Spring Surge Chart](./visualizations/01b_end_seasonal_trend.png)
+![Start Spring Surge Chart](./visualizations/01a_start_seasonal_trend.png)  
+![End Spring Surge Chart](./visualizations/01b_end_seasonal_trend.png)  
 *Figure 1: Comparison of Member vs. Casual growth during the seasonal transition.*
