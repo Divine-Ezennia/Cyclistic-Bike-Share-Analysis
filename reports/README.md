@@ -3,11 +3,11 @@
 To ensure accessibility for all project stakeholders, this folder contains two versions of the formal documentation of the Cyclistic Bike-Share Case Study. While the `scripts/` folder contains the "How," this folder contains the "Why" and the "What's Next."
 
 ## 📑 Featured Report
-### 1. **[Executive Report (Stakeholder View)](./Cyclistic_Bike_Share_Analysis_Nov2024_May2025.pdf)**
+### 1. **[Executive Report (Stakeholder View)](https://drive.google.com/file/d/1-2QoolA6fg_zn6ITMfAl3xdt1k1I-D4z/view?usp=sharing)**
 * **Target Audience:** Marketing Managers, Executives.
 * **Content:** High-level insights, Tableau visualizations, and actionable business strategies. Code blocks are hidden to prioritize readability.
 
-### 2. **[Technical Analysis (Lead Analyst View)](./Cyclistic_Bike_Share_Technical_Analysis_Nov2024_May2025.pdf)**
+### 2. **[Technical Analysis (Lead Analyst View)](https://drive.google.com/file/d/1SXqHHdbxXfgTp6IY3yGYnGmIfzbNV_lP/view?usp=sharing)**
 * **Target Audience:** Data Scientists, Technical Leads.
 * **Content:** The complete "End-to-End" process, including BigQuery SQL queries, Python authentication, and data transformation logic.
 
