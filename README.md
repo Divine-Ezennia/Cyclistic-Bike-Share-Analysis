@@ -65,6 +65,6 @@ To accommodate different review styles, this repository is organized into specia
 ### 📈 Quick Insight: The Spring Surge
 One of the most significant findings of this analysis was the "Spring Surge" among casual riders starting in March.
 
-![Start Spring Surge Chart](./visualizations/01a_start_seasonal_trend.png)  
-![End Spring Surge Chart](./visualizations/01b_end_seasonal_trend.png)  
+![Start Spring Surge Chart](https://raw.githubusercontent.com/Divine-Ezennia/Cyclistic-Bike-Share-Analysis/main/visualizations/01a_start_seasonal_trend.png)  
+![End Spring Surge Chart](https://raw.githubusercontent.com/Divine-Ezennia/Cyclistic-Bike-Share-Analysis/main/visualizations/01b_end_seasonal_trend.png)  
 *Figure 1: Comparison of Member vs. Casual growth during the seasonal transition.*
