@@ -29,7 +29,7 @@ My analysis identified a massive ridership peak between **March and May**.
 * Member volume reached its highest point in May (**319,800 rides**).
 * Casual ridership surged simultaneously (**182,610 rides**), identifying this window as the "Golden Hour" for conversion campaigns.
 
-### The "Afternoon Peak"  
+### 3. The "Afternoon Peak"  
 Both user segments are most active in the afternoon, with members accounting for 24% of total ride volume during this window, highlighting the importance of afternoon availability for conversion marketing.
 
 ## 💡 Strategic Recommendations
