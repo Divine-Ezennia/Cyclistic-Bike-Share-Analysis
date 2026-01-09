@@ -6,7 +6,7 @@
 ---
 
 ## 📋 Project Overview
-This project analyzes **1.97 million+** ride records (November 2024 – August 2025) to identify how behavioral differences between **casual riders** and **annual members** can be leveraged to drive membership conversions. By combining SQL-led data engineering with Tableau visualizations, I uncovered high-value opportunities for seasonal marketing and operational optimization.
+This project analyzes **1.97 million+** ride records (November 2024 – May 2025) to identify how behavioral differences between **casual riders** and **annual members** can be leveraged to drive membership conversions. By combining SQL-led data engineering with Tableau visualizations, I uncovered high-value opportunities for seasonal marketing and operational optimization.
 
 ## 🏗️ The Engineering Approach (Data Preparation)
 To ensure **Engineering Rigor**, I prioritized data integrity and handled the high-volume dataset using BigQuery.
