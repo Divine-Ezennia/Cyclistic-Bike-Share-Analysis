@@ -1,6 +1,6 @@
 # 📊 Visual Insight Gallery
 
-This folder contains high-resolution snapshots of the primary findings from the Cyclistic Bike-Share analysis. For the full interactive experience, including dynamic filters and tooltips, please visit the [Tableau Public Dashboard](PASTE_LINK_HERE).
+This folder contains high-resolution snapshots of the primary findings from the Cyclistic Bike-Share analysis. For the full interactive experience, including dynamic filters and tooltips, please visit the **[Tableau Public Dashboard](https://public.tableau.com/app/profile/ezennia.divine/vizzes)**.
 
 ### 1. The Seasonal Surge (Start vs. End)
 * **Filename:** `01a_start_seasonal_trend.png`
