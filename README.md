@@ -14,7 +14,7 @@ To ensure **Engineering Rigor**, I prioritized data integrity and handled the hi
 * **Scalability:** Merged 12 months of raw data using `UNION DISTINCT` to create a consolidated source of **1,975,968 unique records**.
 * **Station Integrity:** Identified a significant data gap (18.4% start stations and 19.2% end stations missing). Instead of deleting these records—which would skew volume—I programmatically labeled them as "unknown" using `IFNULL()` and `TRIM()` to preserve the total ridership count.
 * **Temporal Logic:** Corrected for system errors by using `LEAST()` and `GREATEST()` functions on ride timestamps, ensuring all trip durations were logically valid and non-negative.
-* Geospatial Integrity: Identified null values in end_lat and end_lng (0.08% of dataset). These records were intentionally retained as the end_station_name was intact, ensuring no loss in ride-volume accuracy or station-to-station trend analysis.
+* **Geospatial Integrity:** Identified null values in end_lat and end_lng (0.08% of dataset). These records were intentionally retained as the end_station_name was intact, ensuring no loss in ride-volume accuracy or station-to-station trend analysis.
 
 
 
